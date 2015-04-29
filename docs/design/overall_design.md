@@ -1,4 +1,4 @@
-###KBase Genome Browser
+#KBase Genome Browser
 
 ##Introduction
 
