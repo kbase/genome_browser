@@ -15,9 +15,9 @@ The genome browser will likely be composed of 3 parts:
 ## Data access layer requirements
 
 * Get stuff about specific genomes, for example (and just to give the flavor, not intended as reality):
-
-    g = find_genome(<identifier or filter>)
-    d = g.get_tracks(['list', 'of', 'tracks']
-    r = d.get_range(<range>)
-
+```
+g = find_genome(<identifier or filter>)
+d = g.get_tracks(['list', 'of', 'tracks']
+r = d.get_range(<range>)
+```
 ## Data store requirements
