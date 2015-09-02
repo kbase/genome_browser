@@ -1,8 +1,10 @@
 # Browsers
 
+This page summarizes the different available open-source genome browsers.
+
 ## Circos
 
-![](./Circos.pdf)
+![](./Circos.ng)
 
 ## Ensembl
 
@@ -11,27 +13,34 @@
 
 ## GBrowse
 
-GBrowse.png
+![](GBrowse.png)
 
 ## JBrowse
 
-JBrowse.jpg
+![](JBrowse.jpg)
 
 ## JGI
 
-JGI.png
+![](JGI.png)
 
 ## MO
 
-MO_contig_browser.png
-MO_tree_browser.png
+### Contig browser
+
+![](MO_contig_browser.png)
+
+### Tree browser
+
+![](MO_tree_browser.png)
 
 ## Rgb
 
-Rgb.pdf
+![](Rgb.pdf)
 
 ## UCSC
 
-UCSC.png
+![](UCSC.png)
 
-## strandNGS strandNGS.png
+## strandNGS
+
+![](strandNGS.png)
