@@ -5,7 +5,7 @@ This page summarizes the different available open-source genome browsers.
 * [Circos](#Circos)
 * [ENSEMBL](#ENSEMBL)
 * [GBrowse](#GBrowse)
-* [JBrowse](#JBrowse)
+* [JBrowse](../#JBrowse)
 * [JGI](#JGI)
 * [Microbes Online](#Microbes Online)
 * [Rgb](#Rgb)
