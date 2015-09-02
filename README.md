@@ -10,4 +10,8 @@ A KBase module for rendering genome information in a web application. The goal o
 * Regulatory regions
 ... and so on
 
+## More information
+[Existing browsers](docs/browsers/README.md)
+ 
+## Help needed
 This is an incredibly early work in progress, and currently only holds some documentation. Please add to the discussion!
