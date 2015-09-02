@@ -4,7 +4,7 @@ This page summarizes the different available open-source genome browsers.
 
 ## Circos
 
-![](./Circos.ng)
+![](./Circos.png)
 
 ## Ensembl
 
@@ -23,7 +23,7 @@ This page summarizes the different available open-source genome browsers.
 
 ![](JGI.png)
 
-## MO
+## Microbes Online
 
 ### Contig browser
 
@@ -35,7 +35,7 @@ This page summarizes the different available open-source genome browsers.
 
 ## Rgb
 
-![](Rgb.pdf)
+![](Rgb.png)
 
 ## UCSC
 
